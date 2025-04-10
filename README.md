@@ -13,7 +13,7 @@ I'm a fullstack web developer specializing in **Next.js**, **Laravel**, and the 
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-E53935?style=flat&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-00A9E0?style=flat&logo=react&logoColor=white&color=00A9E0)
 ![Express.js](https://img.shields.io/badge/Express.js-303030?style=flat&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-026E00?style=flat&logo=node.js&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-885630?style=flat&logo=composer&logoColor=white)
