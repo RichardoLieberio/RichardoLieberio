@@ -36,8 +36,8 @@ I'm a fullstack web developer specializing in **Next.js**, **Laravel**, and the 
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RichardoLieberio&show_icons=true&hide_border=false&bg_color=00000000&title_color=9F7AEA&text_color=6B46C1&icon_color=9F7AEA)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardoLieberio&layout=compact&hide_border=false&bg_color=00000000&title_color=9F7AEA&text_color=6B46C1&icon_color=9F7AEA)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RichardoLieberio&show_icons=true&hide_border=false&bg_color=00000000&title_color=6B46C1&text_color=9F7AEA&icon_color=6B46C1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardoLieberio&layout=compact&hide_border=false&bg_color=00000000&title_color=6B46C1&text_color=9F7AEA&icon_color=6B46C1)
 
 ---
 
